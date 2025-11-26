@@ -1,3 +1,18 @@
+//firebase code
+
+const firebaseConfig = {
+    apiKey: "AIzaSyD_Ly-2T4AnIVhaCTB0dSyI1-gith_J1yk",
+    authDomain: "fakenewsdetector-8b8a5.firebaseapp.com",
+    projectId: "fakenewsdetector-8b8a5",
+    storageBucket: "fakenewsdetector-8b8a5.firebasestorage.app",
+    messagingSenderId: "613917087088",
+    appId: "1:613917087088:web:5ea73a5f837d184cfd6bb5",
+    measurementId: "G-JLV1E36MH3"
+  };
+
+
+
+
 const sampleResults = [
   {
     type: 'fake',
